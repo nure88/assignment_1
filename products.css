@@ -23,7 +23,7 @@ h2{
 }
 .products-1:hover{
     background-color: aqua;
-color: #333;;
+color: #333;
 }
 .products-1 img{
     height: 200px;
@@ -34,4 +34,8 @@ button{
     border-radius: 10px;
     background-color: beige;
     font-size: 25px;
+}
+
+button:hover{
+box-shadow: 0 0 10px blue;
 }
